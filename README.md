@@ -1,2 +1,2 @@
-# DIO
-Destinado ao Bootcamp da Digital Innovation One
+# Bootcamp Fullstack DIO
+Destinado ao Bootcamp Fullstack da Digital Innovation One

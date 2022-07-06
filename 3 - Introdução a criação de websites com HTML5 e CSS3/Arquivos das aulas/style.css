@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.post {
+    background-color: grey;
+    padding: 10px;
+    border: 3px solid orange;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+
+#title, .subtitle, .post_title {
+    color: orange;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+#banner {
+    padding-left: 19%;
+    padding-top: 1%;
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin: 30px 25%;
+}

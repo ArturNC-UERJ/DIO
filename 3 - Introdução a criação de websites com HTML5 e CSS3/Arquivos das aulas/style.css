@@ -6,7 +6,7 @@ body {
 
 .post {
     background-color: grey;
-    padding: 10px;
+    padding: 20px;
     border: 3px solid orange;
     border-radius: 5px;
     margin: 10px;
@@ -25,7 +25,20 @@ body {
 #banner {
     padding-left: 19%;
     padding-top: 1%;
-    border: 1px solid orange;
-    border-radius: 5px;
+    border-top: 1px solid orange;
+    border-bottom: 1px solid orange;
+    border-radius: 50px;
     margin: 30px 25%;
+}
+
+img {
+    border: 1.5px solid orange;
+}
+
+#selfie {
+    border-radius: 15% ;
+}
+
+ul {
+    padding-left: 25px;
 }
